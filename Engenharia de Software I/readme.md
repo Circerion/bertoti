@@ -1,4 +1,4 @@
-                                                                TEXTO DE ANÁLISE
+                                                               TEXTO DE ANÁLISE
                                                               
 Vemos três diferenças críticas entre programação e engenharia de software: tempo, escala e as trade-off em jogo. Em um projeto de engenharia de software, os engenheiros precisam se preocupar mais com a passagem do tempo e com a eventual necessidade de mudanças. Em uma organização de engenharia de software, precisamos nos preocupar mais com escala e eficiência, tanto para o software que produzimos quanto para a organização que o está produzindo. Por fim, como engenheiros de software, somos solicitados a tomar decisões mais complexas com resultados de alto risco, muitas vezes com base em estimativas imprecisas de tempo e crescimento.
 
