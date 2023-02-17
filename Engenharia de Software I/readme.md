@@ -5,7 +5,7 @@ We see three critical differences between programming and software engineering: 
 Vemos três diferenças críticas entre programação e engenharia de software: tempo, escala e as compensações em jogo. Em um projeto de engenharia de software, os engenheiros precisam se preocupar mais com a passagem do tempo e com a eventual necessidade de mudanças. Em uma organização de engenharia de software, precisamos nos preocupar mais com escala e eficiência, tanto para o software que produzimos quanto para a organização que o está produzindo. Por fim, como engenheiros de software, somos solicitados a tomar decisões mais complexas com resultados de alto risco, muitas vezes com base em estimativas imprecisas de tempo e crescimento.
 
                                                                         
------------------------------------------------------------------------- COMENTÁRIO DO ALUNO ------------------------------------------------------------------------------------
+------------------------------------------------------------------------ COMENTÁRIO DO ALUNO ----------------------------------------------------------------------------
 
 É inegável que uma boa organização é essencial em qualquer empresa, e com a área de desenvolvimento de software não seria diferente. Quando se tem uma equipe de desenvolvimento organizada e unida, que busca a evolução e o bom desempenho do time como um todo, a tendência é que o produto fique pronto de maneira excepcional. 
 
