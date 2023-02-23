@@ -12,6 +12,7 @@ Vemos três diferenças críticas entre programação e engenharia de software: 
 Pode se dizer que criar um software é como preparar um almoço em um restaurante, onde a fase de planejamento é o momento de escolha da receita que será preparada (Ou seja, requer uma escolha de onde buscar a receita, quais métodos serão usados e quais os ingredientes para o prato), a fase de desenvolvimento é equivalente ao momento de preparo da receita (Onde podemos organizar os ingredientes, separar o processo de preparo em etapas e assim ir cozinhando a refeição) e por fim comer, que tem como equivalência o momento onde concluímos e publicamos o projeto. 
 
 Essa analogia se dá ao fato de quem um almoço quando não bem organizado no momento de preparo, tem uma maior tendência a não ser tão saboroso quanto um feito em um ambiente bem preparado. Mais importante ainda, cabe ao cozinheiro definir qual o momento ideal para lavar a louça, mas é recomendado que não seja o cliente quem deve fazê-lo.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               TEXTO DE ANÁLISE 2
                                                               
