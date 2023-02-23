@@ -22,4 +22,5 @@ No Google, às vezes dizemos: “A engenharia de software é a programação int
                                                             COMENTÁRIO DO ALUNO 2
                                                               
 Desenvolver um software não é apenas programar, é necessário conhecer a melhor forma de desenvolver um software, uma forma que auxilie os usuários a alcançar seus objetivos da forma mais simples e direta possível. Um bom programador não necessariamente é um bom engenheiro de software e da mesma forma, um bom engenheiro de software não é um bom programador.
+
 Não é à toa que é requerido hoje em dia pessoas que conhecem sobre desenvolvimento de software muito mais do que programadores, afinal temos inteligências artificiais que desenvolvem o código de uma maneira exímia, mas ainda não desenvolve tão bem a parte mais importante para o usuário, sua interação usuário/máquina.
